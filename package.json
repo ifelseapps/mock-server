@@ -1,6 +1,6 @@
 {
   "name": "mock-server",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ifelseapps/mock-server/issues"
   },
-  "homepage": "https://github.com/ifelseapps/mock-server#readme"
+  "homepage": "https://github.com/ifelseapps/mock-server#readme",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "express": "^4.17.1",
+    "loglevel": "^1.7.0"
+  }
 }

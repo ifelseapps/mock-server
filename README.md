@@ -3,9 +3,9 @@
 Simple mock server.
 
 ```
-mock-server -c 200 -b '{ "prop": "value", "prop2": 22 }'
+mock-server -p /some/path/ -c 200 -b '{ "prop": "value", "prop2": 22 }'
 ```
 
 ```
-mock-server -c 200 -j ./some-file.json
+mock-server -p /some/path/ -c 200 -j ./some-file.json
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "mock-server",
+  "name": "@ifelseapps/mock-server",
   "version": "0.1.0",
   "description": "Simple mock server for debug",
   "main": "mock-server.js",

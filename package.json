@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Simple mock server for debug",
   "main": "mock-server.js",
+  "private": false,
   "bin": {
     "mock-server": "./mock-server.js"
   },
